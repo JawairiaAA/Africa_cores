@@ -1,2 +1,2 @@
 # Africa_cores
-analyze cores data developed by Conni and Seonaid
+analyze cores data developed by Conni
